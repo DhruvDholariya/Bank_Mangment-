@@ -1,0 +1,38 @@
+[
+    {
+        "name": "dhruv",
+        "age": 20,
+        "gender": "male",
+        "email": "dhruv@gmail.com",
+        "pin": "2007",
+        "account_number": 1234,
+        "balance": 0
+    },
+    {
+        "name": "parth",
+        "age": 20,
+        "gender": "male",
+        "email": "parth@gmail.com",
+        "pin": "2006",
+        "account_number": 1234,
+        "balance": 0
+    },
+    {
+        "name": "dhruvi",
+        "age": 19,
+        "gender": "female",
+        "email": "dhruvi@gmail.com",
+        "pin": "2006",
+        "account_number": "a%F^3Z8X1",
+        "balance": 4000
+    },
+    {
+        "name": "Dhruv Dholariya",
+        "age": 18,
+        "gender": "Male",
+        "email": "dhruvdholariya03@gmail.com",
+        "pin": "2008",
+        "account_number": "@J9EU0A#8",
+        "balance": 0
+    }
+]
